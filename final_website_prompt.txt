@@ -1,0 +1,11 @@
+Create a polished, responsive dark-neon portfolio website for Stuti Kumari, a first-year B.Tech Information Technology student at VIT Vellore. Use near-black and charcoal backgrounds, neon rose-pink and violet accents, refined typography, glowing glass panels, animated cards, smooth navigation, and subtle cursor glow. Hero tagline: “Curious learner. Creative thinker. Currently building.” Intro: “A first-year B.Tech IT student interested in software development, AI/ML, creativity, and building practical solutions. Currently building a website that helps students at VIT locate lost and found items. Also interested in marketing, management, and building useful products.”
+
+Skills: Python, C++, Java, web development, AI/ML (exploring), data analysis, Git/GitHub, Figma/UI/UX, problem solving, communication, management, creative writing, and writing. Add a “Follow me on Substack” link to https://substack.com/.
+
+Projects: Weather-Based Agricultural Flood Risk Monitoring and Early Warning System; Personal Portfolio Website; Eco Briq; and VIT Lost & Found Platform, currently in development to help students report and locate lost items. Include project filters for Web Development, AI/Data, Creative/Experience, and All Projects.
+
+Education: VIT Vellore, B.Tech IT, 2026–2030 expected. Experience: Social Media Manager at Eco Briq, a startup initiative, contributing to content planning, social media management, digital outreach, and brand communication.
+
+Achievements: All-India Hackathon finalist, VIT Debate Society Student Head, and Software Development Internship. Present them without fictional/sample disclaimers.
+
+Contact email: stuti.kumari2026@vitstudent.ac.in. Link LinkedIn to https://www.linkedin.com/ and GitHub to https://github.com/. Add typing animation, animated cards, custom cursor glow, responsive mobile navigation, active nav state, smooth scrolling, project filters, back-to-top button, and reduced-motion support. Keep all links functional and the website polished and complete.
